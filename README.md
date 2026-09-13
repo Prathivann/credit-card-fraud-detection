@@ -84,6 +84,5 @@ credit-card-fraud-detection/
 
 ## Author
 
-**Prithivan Raja**
-MS in Engineering Management, Northeastern University
+**Prithivan R**
 [LinkedIn](https://linkedin.com/in/prithivan-r-817948219/)
